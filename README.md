@@ -5,12 +5,15 @@ I'm new to this whole computer language stuff and it's a little intimidating, bu
 **What do I place in a README?!!**
     A README is often the first item a visitor will see when visiting your repository. 
     It will usually contain:
-        1 README.txt
-        2 repository license, 
-        3 citation file, 
-        4 contribution guidelines, 
-        5 code of conduct
-    This communicates expectations for your project and helps you manage contributions. README files also typically include information on:
+        <nl>
+<li> README.md
+<li> repository license, 
+<li> citation file, 
+<li> contribution guidelines, 
+<li> code of conduct
+</nl>
+
+This communicates expectations for your project and helps you manage contributions. README files also typically include information on:
         • What the project does
         • Why the project is useful
         • How users can get started with the project
